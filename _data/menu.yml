@@ -8,6 +8,8 @@ entries:
      # url:
       - title: Portfolio
         url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRBLDkq2Q-Q-a-tjKPwHCqWAuwxz-RUzLXYzQLEsGD2tvpyGxkznfoc-BmorwZ382GGCA30udDlafiS/pubhtml?gid=595656519&single=true'
+      - title: Resume
+        url: assets/Resume_Sahil_Chawla.pdf
       - title: "Email me @ sahil.chawla@gmail.com"
 
   - title: investing
