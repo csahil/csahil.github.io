@@ -2,16 +2,17 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: about me
+  - title: links
     entries:
-      - title: "I'm 22 from the California Bay Area. I graduated UC Berkeley with a double major in Economics and Interdisciplinary Studies (my own major mixing psych/history/sociology among other subjects). I'm interested in what cannot entirely be explained by either numbers or words, and have found that interest fufilled by investing."
+    #  - title: github
+     # url:
       - title: Portfolio
         url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRBLDkq2Q-Q-a-tjKPwHCqWAuwxz-RUzLXYzQLEsGD2tvpyGxkznfoc-BmorwZ382GGCA30udDlafiS/pubhtml?gid=595656519&single=true'
       - title: "Email me @ sahil.chawla@gmail.com"
 
   - title: all posts
     post_list:
-      category: example2
+      category: i
       limit: 100
       show_more: true
       show_more_text: more...
@@ -24,8 +25,8 @@ entries:
       show_more_text: more...
       show_more_url: o-archive.html
 
-  - title: rss
-    url: feed.xml
+  #- title: rss
+   # url: feed.xml
   
  # - title: another list
   #  entries:

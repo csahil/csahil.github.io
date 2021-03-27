@@ -4,7 +4,7 @@ email: sahil.chawla@gmail.com # email of site's author
 url: https://csahil.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-   some investing thoughts along with some other cool projects
+    I'm 22 from the California Bay Area. I graduated UC Berkeley with a double major in Economics and Interdisciplinary Studies (my own major mixing psych/history/sociology among other subjects). I'm interested in what cannot entirely be explained by either numbers or words, and have found that interest fufilled by investing.
 
 permalink: /:slug.html
 
