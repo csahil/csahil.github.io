@@ -6,7 +6,7 @@ baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're sit
 description: > # description of the site (multiple lines allowed)
     I graduated UC Berkeley in 2020 with a double major in Economics and Interdisciplinary Studies (my own creation of psych/history/sociology).
     
-    I'm interested in what cannot entirely be explained by either numbers or words, and have found that interest fufilled by investing.
+    I'm interested in what cannot entirely be explained by either numbers or words, and have found that interest fulfilled by investing.
 
 permalink: /:slug.html
 

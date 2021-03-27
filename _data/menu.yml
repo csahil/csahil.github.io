@@ -11,6 +11,7 @@ entries:
       - title: "Email me @ sahil.chawla@gmail.com"
 
   - title: investing
+    title: "if you think I'm wrong you should email me why"
     post_list:
       category: i
       limit: 100
@@ -35,6 +36,6 @@ entries:
      #     - title: with subsubitems
       #    - title: example page
        #     url: about
-  - title: PRO TIP
-    entries:
-      - title: to edit this menu, edit _data/menu.yml file
+  #- title: PRO TIP
+   # entries:
+    #  - title: to edit this menu, edit _data/menu.yml file
