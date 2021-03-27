@@ -2,36 +2,38 @@
 # https://github.com/riggraz/no-style-please#customize-the-menu
 
 entries:
-  - title: Portfolio
+  - title: about me
     entries:
+      - title: "I'm 22 from the California Bay Area. I graduated UC Berkeley with a double major in Economics and Interdisciplinary Studies (my own major mixing psych/history/sociology among other subjects). I'm interested in what cannot entirely be explained by either numbers or words, and have found that interest fufilled by investing."
       - title: Portfolio
         url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRBLDkq2Q-Q-a-tjKPwHCqWAuwxz-RUzLXYzQLEsGD2tvpyGxkznfoc-BmorwZ382GGCA30udDlafiS/pubhtml?gid=595656519&single=true'
-      - title: "used by <a href='https://riggraz.dev'>riggraz.dev</a> and <a href='https://github.com/riggraz/no-style-please/network/dependents'>many others</a>"
+      - title: "Email me @ sahil.chawla@gmail.com"
 
   - title: all posts
     post_list:
-      limit: 5
+      category: example2
+      limit: 100
       show_more: true
-      show_more_text: See archive...
-      show_more_url: archive.html
+      show_more_text: more...
+      show_more_url: i-archive.html
 
   - title: posts by category
     post_list:
-      category: example2
+      category: o
       show_more: true
-      show_more_text: See more posts...
-      show_more_url: example2-archive.html
+      show_more_text: more...
+      show_more_url: o-archive.html
 
   - title: rss
     url: feed.xml
   
-  - title: another list
-    entries:
-      - title: with subitems
-        entries:
-          - title: with subsubitems
-          - title: example page
-            url: about
+ # - title: another list
+  #  entries:
+   #   - title: with subitems
+    #    entries:
+     #     - title: with subsubitems
+      #    - title: example page
+       #     url: about
   - title: PRO TIP
     entries:
       - title: to edit this menu, edit _data/menu.yml file
