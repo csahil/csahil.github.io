@@ -11,7 +11,6 @@ entries:
       - title: "Email me @ sahil.chawla@gmail.com"
 
   - title: investing
-    - title: "if you think I'm wrong you should email me why"
     post_list:
       category: i
       limit: 100
