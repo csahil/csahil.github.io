@@ -10,7 +10,7 @@ entries:
         url: 'https://docs.google.com/spreadsheets/d/e/2PACX-1vRBLDkq2Q-Q-a-tjKPwHCqWAuwxz-RUzLXYzQLEsGD2tvpyGxkznfoc-BmorwZ382GGCA30udDlafiS/pubhtml?gid=595656519&single=true'
       - title: "Email me @ sahil.chawla@gmail.com"
 
-  - title: all posts
+  - title: investing
     post_list:
       category: i
       limit: 100
@@ -18,7 +18,7 @@ entries:
       show_more_text: more...
       show_more_url: i-archive.html
 
-  - title: posts by category
+  - title: other cool stuff
     post_list:
       category: o
       show_more: true
