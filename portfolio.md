@@ -1,5 +1,6 @@
 ---
 title:  "portfolio"
+layout: portfolio
 permalink: /portfolio/
 date:   2021-2-20 10:00:40
 category: 
