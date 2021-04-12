@@ -2,7 +2,7 @@ title: SAHIL CHAWLA # name of the site
 author: SAHIL CHAWLA # name of site's author
 email: sahil.chawla@gmail.com # email of site's author
 url: https://csahil.github.io # root address of the site
-baseurl: "/portfolio" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
     I graduated UC Berkeley in 2020 with a double major in Economics and Interdisciplinary Studies (my own creation of psych/history/sociology).
     
