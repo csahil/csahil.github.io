@@ -17,7 +17,7 @@ entries:
 #  - title: Featured Writing
 #  - title: <iframe width="620" height="330" src="https://docs.google.com/spreadsheets/d/e/2PACX-1vSRPrV0pq4vYHdMRq8P_Rmpk9miRjVedyoIoFEM0NBuVkA9QiZzUy4zLx_B4EukpCeEIr86bph7Yvf6/pubhtml?gid=0&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
 
-  - title: featured
+  - title: featured ideas
     post_list:
       category: f
       limit: 100
@@ -25,7 +25,7 @@ entries:
       show_more_text: more...
       show_more_url: f-archive.html
 
-  - title: investing
+  - title: more
     post_list:
       category: i
       limit: 100
