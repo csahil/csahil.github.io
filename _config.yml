@@ -4,7 +4,7 @@ email: sahil.chawla@gmail.com # email of site's author
 url: https://csahil.github.io # root address of the site
 baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
 description: > # description of the site (multiple lines allowed)
-    I graduated UC Berkeley in 2020 with a double major in Economics and Interdisciplinary Studies (my own creation of psych/history/sociology).
+    I graduated UC Berkeley in 2020 with a double major in Economics and Interdisciplinary Studies (my own program of psych/history/sociology) and wrote my thesis about <a href="https://csahil.github.io/assets/Chess.pdf">chess</a>.
 
     I enjoy investing. Here's some of my work. I have owned most of these stocks at some point.
 
