@@ -1,0 +1,42 @@
+[
+  {
+    "ticker": "Short:VITL",
+    "company": "Vital Farms",
+    "title": "Vital Farms",
+    "blurb": "Short thesis on Vital Farms soon after the IPO. In hindsight, shorting this IPO class was like shooting fish in a barrel, but I am proud of the supporting work. The idea won SumZero's Top Stocks for 2021 contest in the Small Cap category.",
+    "pdf": "files/VITL.pdf",
+    "img": "images/VITL.jpeg"
+  },
+  {
+    "ticker": "Long:DNA",
+    "company": "Doric Nimrod Air",
+    "title": "Doric Nimrod Air",
+    "blurb": "An amazing situation where investing boiled down the valuing a single Airbus A380 owned by this AIM-listed holdco.",
+    "pdf": "files/DNA.pdf",
+    "img": "images/DNA.jpg"
+  },
+  {
+    "ticker": "Short:PHR",
+    "company": "Phreesia",
+    "title": "Phreesia",
+    "blurb": "A tactical short based on digesting management's KPI management. It worked, though it landed just under $19.",
+    "pdf": "files/PHR.pdf",
+    "img": "images/PHR.png"
+  },
+  {
+    "ticker": "Long:MMX",
+    "company": "Minds + Machines",
+    "title": "Minds + Machines",
+    "blurb": "A registrar of domains, ranging from .wedding to .beer and .xxx, listed on London's AIM (essentially Verisign, but worse in all ways other than the price). I liked this a lot and it was bought out by GoDaddy for a nice premium later in 2021. If I recall correctly, it was hairier than I let on.",
+    "pdf": "files/MMX.pdf",
+    "img": "images/MMX.jpg"
+  },
+  {
+    "ticker": "Long:SPR",
+    "company": "Spirit AeroSystems",
+    "title": "Spirit AeroSystems",
+    "blurb": "My favorite A&D stock while I covered the industry at SIG. I was sad to have seen it taken out by Boeing. Curiously, as soon as that happened, it seemed like the supply chain was whipped into shape, which suggests I might have missed something...",
+    "pdf": "files/SPR.pdf",
+    "img": "images/SPR.jpeg"
+  }
+]

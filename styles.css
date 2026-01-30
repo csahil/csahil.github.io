@@ -1,0 +1,67 @@
+:root { --bg: #eee; --fg: #000; }
+html, body { height: 100%; }
+body {
+  font-family: monospace;
+  background-color: var(--bg);
+  margin: 40px;
+  color: var(--fg);
+}
+.box {
+  width: 400px;
+  height: 250px;
+  float: left;
+  padding: 0 40px 80px 0;
+}
+.box.clickable {
+  cursor: pointer;
+}
+.screenshot {
+  width: 400px;
+  height: 250px;
+  overflow: hidden;
+  background: #ddd;
+  background-size: cover;
+  background-position: center;
+  outline: 1px solid #ccc;
+  position: relative;
+}
+.screenshot::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: inherit;
+  filter: blur(8px);
+  opacity: 0.25;
+  z-index: 0;
+}
+/* Text display for ticker + company */
+.text-display {
+  width: 400px;
+  height: 250px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 16px;
+  position: relative;
+  z-index: 1;
+  background-color: rgba(238, 238, 238, 0.75);
+}
+.text-display .ticker {
+  font-size: 56px;
+  font-weight: normal;
+  letter-spacing: -1px;
+  line-height: 1;
+}
+.text-display .company {
+  font-size: 18px;
+  text-align: center;
+  padding: 0 20px;
+  line-height: 1.3;
+}
+.box.intro p { line-height: 1.6; }
+.box p { margin: 8px 0 0; }
+#sentinel { clear: both; height: 1px; }

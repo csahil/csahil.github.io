@@ -1,0 +1,1 @@
+Drop PDF files in this folder and reference them from data/items.json (e.g., files/mydoc.pdf).
