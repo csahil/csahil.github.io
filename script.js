@@ -26,7 +26,7 @@ function renderNext() {
   const next = items.slice(cursor, cursor + PAGE_SIZE);
   if (!next.length) return;
   const html = next.map((item, i) => boxHTML(item, cursor + i)).join("");
-  stream.insertAdjacentHTML('beforeend', html);
+  sentinel.insertAdjacentHTML('beforebegin', html);
   cursor += next.length;
   if (cursor >= items.length) observer.disconnect();
 }
